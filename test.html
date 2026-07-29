@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Support Chatbot - Test Page</title>
+  <style>
+    body {
+      font-family: -apple-system, Segoe UI, Roboto, sans-serif;
+      display: flex; align-items: center; justify-content: center;
+      height: 100vh; margin: 0; background: #f0f2f5; color: #333;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Demo Test Page</h1>
+    <p>Click the bubble in the bottom right to ask a question about the panel (e.g., "where can I see my invoices").</p>
+  </div>
+
+  <!-- We test the widget here -->
+  <script>
+    window.CHAT_WIDGET_CONFIG = {
+      apiUrl: "http://localhost:8002/chat",
+      title: "Support Chat",
+      subtitle: "We usually reply within seconds",
+      greeting: "Hello! Welcome to the panel assistant. How can I help you today?",
+      primaryColor: "#2b6cd9"
+    };
+  </script>
+  <script src="static/widget.js"></script>
+</body>
+</html>

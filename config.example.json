@@ -1,0 +1,39 @@
+{
+  "company_name": "Demo Panel Inc.",
+  "base_url": "https://panel.example.com",
+  "support_path": "/LiveSupport",
+  "support_phone": "0850 000 00 00",
+  "llm_model": "qwen3:1.7b",
+  "ollama_host": "http://localhost:11434",
+  "conversation_timeout_minutes": 60,
+  "links": {
+    "invoice info": "/profile",
+    "invoice": "/invoice",
+    "iban": "/accounts",
+    "contract": "/membership",
+    "device": "/mydevices",
+    "vehicle": "/myvehicles",
+    "credit summary": "/summary",
+    "business loan": "/loan",
+    "boost": "/boost/buy",
+    "points": "/scoring_system",
+    "announcement": "/announcement",
+    "working hours": "/hours",
+    "empty return": "/return/plan",
+    "settings": "/settings",
+    "wallet": "/payment",
+    "prime": "/prime",
+    "package": "/prime",
+    "my services": "/myservices",
+    "admin": "/users",
+    "add user": "/users",
+    "garage region": "/garage/myregions",
+    "live support": "/LiveSupport",
+    "agent": "/LiveSupport",
+    "representative": "/LiveSupport"
+  },
+  "extra_keywords": [
+    "panel", "business partner", "my business", "my jobs",
+    "garage jobs", "profile page"
+  ]
+}

@@ -1,0 +1,85 @@
+This document contains example pages and links for the demo partner panel.
+(Replace this file with your own FAQ content in your own project.)
+
+Question: Where can I see my invoices?
+
+Answer:
+You can view your invoices at https://panel.example.com/invoice.
+
+
+Question: How do I update/add my IBAN information?
+
+Answer:
+You can update your IBAN/account information at https://panel.example.com/accounts.
+
+
+Question: Where can I see my contract?
+
+Answer:
+You can view your membership contract at https://panel.example.com/membership.
+
+
+Question: How do I get a business loan?
+
+Answer:
+You can use https://panel.example.com/loan to get a business loan.
+
+
+Question: Where can I see my credit summary?
+
+Answer:
+You can view your credit summary at https://panel.example.com/summary.
+
+
+Question: Where do I change my account settings?
+
+Answer:
+You can change your account settings at https://panel.example.com/settings.
+
+
+Question: How can I view/buy Prime packages?
+
+Answer:
+You can review the Prime packages at https://panel.example.com/prime.
+
+
+Question: How do I add money/balance to my wallet?
+
+Answer:
+You can top up your wallet at https://panel.example.com/payment.
+
+
+Question: How does the points system work, where can I see my points?
+
+Answer:
+You can see the details of the points system at https://panel.example.com/scoring_system.
+
+
+Question: Where do I follow the announcements?
+
+Answer:
+You can follow the announcements at https://panel.example.com/announcement.
+
+
+Question: How do I update my working hours?
+
+Answer:
+You can update your working hours at https://panel.example.com/hours.
+
+
+Question: How do I add another admin/user to my panel?
+
+Answer:
+You can manage your panel users/admins at https://panel.example.com/users.
+
+
+Question: How can I contact live support, I want to speak to a representative?
+
+Answer:
+You can reach our live support line at https://panel.example.com/LiveSupport and speak to a representative.
+
+
+Question: If I want to perform an action on the panel (issuing an invoice, approving a payment, adding a user, etc.), can you do it for me?
+
+Answer:
+No, I cannot perform real actions on the panel; I can only direct you to the correct page. You need to go to the relevant page and complete the transaction yourself.
