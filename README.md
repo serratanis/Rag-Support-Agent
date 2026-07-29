@@ -1,4 +1,4 @@
-# RAG-Powered Support Chatbot (Turkish, self-hosted LLM)
+# RAG-Powered Support Chatbot 
 
 An embeddable website chat widget backed by a FastAPI webhook, a local
 LLM (via [Ollama](https://ollama.com)), and a Retrieval-Augmented
