@@ -130,7 +130,7 @@ Before going live, lock down CORS in `webhook.py`
   base to adapt it to another language or domain.
 - `config.json`, the SQLite database, and the vector store are
   gitignored on purpose — they may contain real customer data in a
-  production deployment and should never be committed..
+  production deployment and should never be committed.
 
 ## License
 
