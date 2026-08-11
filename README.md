@@ -134,4 +134,4 @@ Before going live, lock down CORS in `webhook.py`
 
 ## License
 
-MIT — see [LICENSE](LICENSE)..
+MIT — see [LICENSE](LICENSE).
